@@ -27,7 +27,7 @@
 
 ## Ми завжди відкриті до комунікації з талановитими людьми &#129351;
 <h3> - <a href="https://github.com/solidgatehiring/go_vacancy/tree/main"><b>Go Engineer</b></a></h3>
-<p> - </p>
+<h3> - <a href="https://github.com/solidgatehiring/frontend_vacancy/tree/main"><b>FrontEnd Developer</b></a></h3>
 
 ## Якщо тебе зацікавила одна з наших вакансій, сміливо пиши на <a href="mailto:talent@solidgate.com">пошту</a> нашим рекрутерам &#128231;
 <p> </p>
