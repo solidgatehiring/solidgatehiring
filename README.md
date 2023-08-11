@@ -25,7 +25,7 @@
 <p> — можливість розвитку та професійного росту — «career plan» є у кожного </p>
 <p> — команда, яка горить спільною метою, має спільне бачення та цінності </p>
 
-## Ми завжди відкриті до комунікації з талановитими людьми &#129351;
+## Вакансії:
 <h3> - <a href="https://github.com/solidgatehiring/go_vacancy/tree/main"><b>Go Engineer</b></a></h3>
 <h3> - <a href="https://github.com/solidgatehiring/frontend_vacancy/tree/main"><b>FrontEnd Developer</b></a></h3>
 
