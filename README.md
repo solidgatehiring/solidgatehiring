@@ -30,8 +30,8 @@
 
 ## Вакансії:
 <h3> - <a href="https://github.com/solidgatehiring/go_vacancy/tree/main"><b>Go Engineer</b></a></h3>
-
-## Якщо тебе зацікавила одна з наших вакансій, сміливо надсилай своє CV на <a href="mailto:anna.tiutiunnyk@solidgate.com">цю пошту</a>  &#128231;
+<p> </p>
+Якщо тебе зацікавила одна з наших вакансій, сміливо надсилай своє CV на <a href="mailto:anna.tiutiunnyk@solidgate.com">цю пошту</a>  &#128231;
 <p> </p>
 
 
