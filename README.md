@@ -25,9 +25,8 @@
 <p> — можливість розвитку та професійного росту — «career plan» є у кожного </p>
 <p> — команда, яка горить спільною метою, має спільне бачення та цінності </p>
 
-## Tech Radar:
-Технології які ми використовуємо:
-[Solidgate tech radar](https://solidgate-tech.github.io)
+## Технології які ми використовуємо:
+Дивись тут — [Solidgate tech radar](https://solidgate-tech.github.io)
 
 ## Вакансії:
 <h3> - <a href="https://github.com/solidgatehiring/go_vacancy/tree/main"><b>Go Engineer</b></a></h3>
