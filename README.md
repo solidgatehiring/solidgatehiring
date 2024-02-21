@@ -30,7 +30,6 @@
 
 ## Вакансії:
 <h3> - <a href="https://github.com/solidgatehiring/go_vacancy/tree/main"><b>Go Engineer</b></a></h3>
-<h3> - <a href="https://github.com/solidgatehiring/kotlin_vacancy#readme"><b>Java/Kotlin Engineer</b></a></h3>
 <h3> - <a href="https://github.com/solidgatehiring/frontend_vacancy.git"><b>Frontend Developer (Chargeback Prevention Product)</b></a></h3>
 <h3> - <a href="https://github.com/solidgatehiring/kotlin_vacancy_FE.git"><b>Java/Kotlin Engineer (Finance Engineering)</b></a></h3>
 <p> </p>
