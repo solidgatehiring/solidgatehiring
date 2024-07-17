@@ -29,8 +29,8 @@
 Дивись тут — [Solidgate tech radar](https://solidgate-tech.github.io)
 
 ## Вакансії:
-<h3> - <a href="https://github.com/solidgatehiring/go_vacancy/tree/main"><b>Go Engineer</b></a></h3>
 <h3> - <a href="https://github.com/solidgatehiring/kotlin_core"><b>Java/Kotlin Engineer (Core)</b></a></h3>
+<h3> - <a href="https://github.com/solidgatehiring/kotlin_vacancy_FE"><b>Java/Kotlin Engineer (Finance Engineering)</b></a></h3>
 <h3> - <a href="https://github.com/solidgatehiring/go_vacancy_core/tree/main"><b>Go Engineer (Core)</b></a></h3>
 <p> </p>
 Якщо тебе зацікавила одна з наших вакансій, сміливо надсилай своє CV на <a href="mailto:anna.tiutiunnyk@solidgate.com">цю пошту</a>  &#128231;
